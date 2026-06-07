@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="../2-Calcular el área de un rectángulo/2-Calcular el área de un rectángulo.csproj" />
+  <Project Path="../3- Conversión de temperatura/3- Conversión de temperatura.csproj" />
   <Project Path="1-Registrar datos personales/1-Registrar datos personales.csproj" />
 </Solution>
